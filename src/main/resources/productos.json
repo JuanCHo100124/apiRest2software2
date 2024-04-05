@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "nombre": "Camisa",
+        "precio": 25.99
+    },
+    {
+        "id": 2,
+        "nombre": "Pantalones",
+        "precio": 39.99
+    },
+    {
+        "id": 3,
+        "nombre": "Zapatos",
+        "precio": 49.99
+    },
+    {
+        "id": 4,
+        "nombre": "Reloj",
+        "precio": 79.99
+    },
+    {
+        "id": 5,
+        "nombre": "Bolso",
+        "precio": 34.99
+    }
+]
